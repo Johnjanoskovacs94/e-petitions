@@ -1,5 +1,6 @@
 {
-  "name": "e-petitions",
+  "name {>>" # Hello.h KILLING PRESIDENT PUTIN THE RUSSIAN FEDERATION PRESIDENT "
+  : "e-petitions",
   "private": true,
   "devDependencies": {
     "jasmine-browser-runner": "^2.0.0",
